@@ -1,6 +1,6 @@
 # Ai-Car-Damage-Quotation
 
-![image](https://github.com/kimmingji/Ai-Car-Damage-Quotation/assets/113088688/b5a2e93d-cb13-4903-8e33-d58e76884e36)
+![image](https://github.com/kimmingji/Ai-Car-Damage-Quotation/assets/113088688/ec07d516-2b51-4b0c-a7dd-a3114a8a830c)
 
 **요약** 
 
