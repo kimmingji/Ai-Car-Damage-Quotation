@@ -1,6 +1,6 @@
 # Ai-Car-Damage-Quotation
 
-![image](https://github.com/kimmingji/Ai-Car-Damage-Quotation/assets/113088688/573cff1a-2d2c-4a96-ad25-be6dcc05f3cb)
+![image](https://github.com/kimmingji/Ai-Car-Damage-Quotation/assets/113088688/b5a2e93d-cb13-4903-8e33-d58e76884e36)
 
 **요약** 
 
@@ -18,3 +18,6 @@
 - 예산 편성, 차량 보험료 산정 도움
 - 고객 이탈 방지, 서비스 재이용률 증가
 
+**서비스**
+
+![image](https://github.com/kimmingji/Ai-Car-Damage-Quotation/assets/113088688/573cff1a-2d2c-4a96-ad25-be6dcc05f3cb)
